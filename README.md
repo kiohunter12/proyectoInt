@@ -9,7 +9,6 @@ Este es un proyecto en desarrollo para gestionar el turismo en Capachica. Está 
 
 - Proyecto iniciado
 - Backend con Spring Boot funcionando
-- Se han implementado 2 endpoints CRUD básicos
 
 ## ▶️ Cómo ejecutar
 
